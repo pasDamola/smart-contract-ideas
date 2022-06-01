@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity >=0.4.22 <0.9.0;
+pragma solidity ^0.8.7;
 import "@chainlink/contracts/src/v0.8/KeeperCompatible.sol";
 
 contract Guugle is KeeperCompatibleInterface {
